@@ -17,7 +17,7 @@ A user-friendly Grade Calculator application built with Python and Tkinter. Calc
 
 1. Download or clone the repository to your local machine.
 
-2. Run the `grade_calculator.py` script.
+2. Run the `gc.py` script.
 
 3. Enter the total number of subjects you want to calculate grades for.
 
