@@ -61,5 +61,5 @@ This project is open-source and available under the MIT License. You are free to
 
 ## Acknowledgments
 
-- Special thanks to the Python and Tkinter communities for their support and resources.
+- Special thanks to the Python and Tkinter communities for their resources.
 
