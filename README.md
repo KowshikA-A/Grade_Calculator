@@ -22,7 +22,7 @@ Welcome to the Grade Calculator - your user-friendly companion for evaluating yo
 
 1. **Get Started:** Begin your journey by downloading or cloning the repository to your local machine.
 
-2. **Launch the App:** Run the `grade_calculator.py` script to open the application.
+2. **Launch the App:** Run the `gc.py` script to open the application.
 
 3. **Set the Stage:** Start by entering the total number of subjects you wish to evaluate.
 
