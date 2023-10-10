@@ -1,6 +1,6 @@
 # Grade Calculator with GUI using Python and Tkinter
 
-![GitHub](https://img.shields.io/github/license/yourusername/grade-calculator-tkinter)
+![GitHub](https://img.shields.io/github/license/KowshikA-A/Grade_Calculator)
 
 A user-friendly Grade Calculator application built with Python and Tkinter. Calculate your average grade with ease, customize the number of subjects, and get instant feedback on your performance.
 
@@ -57,7 +57,7 @@ This project is open-source and available under the MIT License. You are free to
 
 ## Author
 
-- Achanta Rupa Kowshika()
+- Achanta Rupa Kowshika(https://github.com/KowshikA-A)
 
 ## Acknowledgments
 
